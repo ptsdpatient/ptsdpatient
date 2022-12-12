@@ -1,5 +1,6 @@
 ## Hi my name is Tanishq -aka ptsdpatient
 ### I am aiming to become a full stack developer
+- i am doing my graduation from GCOEN
 - currently working on program to find inverse of matrix
 - trying to learn js frameworks 
 - trying to get into tech field in adhyaaya
