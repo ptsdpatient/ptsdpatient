@@ -1,7 +1,7 @@
 ## Hi there, my name is Tanishq -aka ptsdpatient
 i am a passionate learner and programming enthusiast
 currently in 1st year
-####i can program in several languages(c++,Java,javascript,kotlin,python and php)
+i can program in several languages(c++,Java,javascript,kotlin,python and php)
   
 ### My socials:
 ![Email Alpha](https://i.ibb.co/BV3Tt35/IMG-20221211-WA0005.jpg)
