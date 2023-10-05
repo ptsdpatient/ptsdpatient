@@ -1,21 +1,64 @@
-## Hi there, my name is Tanishq -aka ptsdpatient
-i am a passionate learner and programming enthusiast
-currently in 1st year
-i can program in several languages(c++,Java,javascript,kotlin,python and php)
-  
-### My socials:
-![Email Alpha](https://i.ibb.co/BV3Tt35/IMG-20221211-WA0005.jpg)
-### instagram : https://instagram.com/ptsd_patient
+# Hello, I'm Tanishq Dhote 👋
 
-### I am aiming to become a full stack developer
-- i am studying in Government College of Engineering Nagpur 
-- currently working on keydance
-- trying to learn js frameworks 
+## About Me
 
-### My hobbies:
-- programming/ web designing 
-- chess 
-- drawing and painting
-- playing video games
+I am a passionate MERN Stack Developer, Game Developer, and currently a student at Government Engineering College of Nagpur, India. My journey in the world of technology has been driven by a thirst for creativity and a love for innovation. I specialize in web development, game development, and have a keen interest in Artificial Intelligence.
 
+- 🌟 Current Position: Tech Team member at GDSC
+- 📍 Location: Nagpur, India
 
+## Hobbies
+
+Apart from my digital pursuits, I have a few interesting hobbies:
+
+- 🦋 Flipping a balisong knife with finesse.
+- 📖 Crafting plots for fictional novels and exploring new worlds through storytelling.
+- 🎵 Venturing into the music industry with a melodica.
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. **Sintext**
+   - Link: [Sintext on itch.io](https://ptsd-dev.itch.io/sintext)
+
+2. **MERN Stack Website**
+   - Link: [Microplastwovens](https://www.microplastwovens.com/)
+
+3. **PTSDance Revolution**
+   - Link: [PTSDance on itch.io](https://ptsd-dev.itch.io/ptsdance-revolution)
+
+## Skills
+
+I'm proficient in a variety of skills, including:
+
+- Full-stack web development
+- Game development
+- Google Cloud Computing
+- Machine Learning
+
+## Coding Languages
+
+I'm comfortable with a range of programming languages:
+
+- React
+- C++
+- Java
+- C#
+- Python
+- PHP
+- JavaScript
+- Kotlin
+- CSS
+
+## Tools
+
+I work with various tools and platforms:
+
+- Android Studio
+- Blender 3D
+- Unity
+- IntelliJ IDEA for Java
+- Google Cloud tools
+
+Feel free to connect with me or explore my projects. Let's collaborate and create something amazing together! 🚀
