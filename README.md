@@ -2,16 +2,17 @@
 
 I'm a MERN Stack Developer, Game Developer, and a dedicated student at the Government Engineering College of Nagpur. My passion lies in technology, creativity, and the world of web development and game development. I also have a keen interest in Artificial Intelligence.
 
+![Location](https://img.shields.io/badge/Location-Nagpur,%20India-brightgreen)
+![Student](https://img.shields.io/badge/Student-GCOEN-blue)
+![GDSC](https://img.shields.io/badge/Current%20Position-Tech%20Team%20Member%20at%20GDSC-red)
+
 ## About Me
 
-- 🌍 Location: Nagpur, India
-- 🎓 Student at GCOEN
-- 👨‍💻 Tech Team member at GDSC
-- 📷 [Instagram](https://www.instagram.com/ptsd_memer/)
-- 📺 [YouTube](https://www.youtube.com/channel/UCKboTJN962q_1sJ5_FpqYBQ)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanishqdhote/)
-- 🎮 [itch.io](https://ptsd-dev.itch.io/)
-- 💬 Discord: tanishq0806
+![Instagram](https://img.shields.io/badge/Instagram-%40ptsd__memer-orange?style=flat-square&logo=instagram)
+![YouTube](https://img.shields.io/badge/YouTube-Tanishq%20Dhote-red?style=flat-square&logo=youtube)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanishq%20Dhote-blue?style=flat-square&logo=linkedin)
+![itch.io](https://img.shields.io/badge/itch.io-ptsd--dev-yellow?style=flat-square&logo=itch-dot-io)
+![Discord](https://img.shields.io/badge/Discord-tanishq0806-purple?style=flat-square&logo=discord)
 
 ## Hobbies
 
@@ -25,9 +26,9 @@ Outside of the digital and creative spheres, I have a diverse set of interests:
 
 Here are some of the projects I've worked on:
 
-1. [Sintext](https://ptsd-dev.itch.io/sintext)
-2. [MERN Stack Website](https://www.microplastwovens.com/)
-3. [PTSDance](https://ptsd-dev.itch.io/ptsdance-revolution)
+![Sintext](https://img.shields.io/badge/Sintext-Check%20it%20out-success?style=for-the-badge&logo=unity)
+![MERN Stack Website](https://img.shields.io/badge/MERN%20Stack%20Website-Visit%20Now-informational?style=for-the-badge)
+![PTSDance](https://img.shields.io/badge/PTSDance-Explore-ff69b4?style=for-the-badge&logo=itch-dot-io)
 
 ## Skills
 
