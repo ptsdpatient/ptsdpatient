@@ -1,6 +1,6 @@
 # Hi there, I'm Tanishq Dhote 👋
 
-I'm a MERN Stack Developer, Game Developer, and a dedicated student at the Government Engineering College of Nagpur. My passion lies in technology, creativity, and the world of web development and game development. I also have a keen interest in Artificial Intelligence.
+I'm a Svelte Stack Developer, Game Developer, and a dedicated student at the Government Engineering College of Nagpur. My passion lies in technology, creativity, and the world of web development and game development. I also have a keen interest in Artificial Intelligence.
 
 ![Location](https://img.shields.io/badge/Location-Nagpur,%20India-brightgreen)
 ![Student](https://img.shields.io/badge/Student-GCOEN-blue)
