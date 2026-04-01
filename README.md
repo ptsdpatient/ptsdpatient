@@ -6,7 +6,7 @@ I'm a Svelte Stack Developer, Game Developer. My passion lies in technology, cre
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40ptsd__memer-orange?style=flat-square&logo=instagram)](https://www.instagram.com/ptsd.patient/)
 [![YouTube](https://img.shields.io/badge/YouTube-Tanishq%20Dhote-red?style=flat-square&logo=youtube)](https://www.youtube.com/@ptsdpatient)
-[![itch.io](https://img.shields.io/badge/itch.io-ptsd--dev-yellow?style=flat-square&logo=itch-dot-io)](https://ptsdpatient.itch.io/)
+[![itch.io](https://img.shields.io/badge/itch.io-ptsdpatient-yellow?style=flat-square&logo=itch-dot-io)](https://ptsdpatient.itch.io/)
 [![Discord](https://img.shields.io/badge/Discord-tanishq0806-purple?style=flat-square&logo=discord)](https://discord.gg/SYqjPeWk)
 
 
